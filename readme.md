@@ -1,12 +1,16 @@
----
 
-# pi LLM
+# C.A.R.E-LLM-Base
 
 A Streamlit application providing an AI assistant specialized in gestational diabetes management.
 
 ## Quick Start Guide
 
+Download and install ollama through the cli through the following command:
+'curl -fsSL https://ollama.com/install.sh | sh'
+
 ### Install Streamlit and Ollama Packages
+
+Continuing with the following in a virtual environment
 
 ```bash
 pip3 install streamlit ollama
@@ -40,5 +44,3 @@ Start the Streamlit app:
 ```bash
 streamlit run app.py
 ```
-
----
