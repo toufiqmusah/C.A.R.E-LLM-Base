@@ -43,6 +43,7 @@ Start the Streamlit app:
 streamlit run app.py
 ```
 
-✅ Prompt-Engineered
-🏗️ Basic RAG
-❌ Fine-tuning
+✅ Prompt-Engineered <br>
+🏗️ Basic RAG <br>
+❌ Fine-tuning <br>
+
