@@ -42,3 +42,7 @@ Start the Streamlit app:
 ```bash
 streamlit run app.py
 ```
+
+✅ Prompt-Engineered
+🏗️ Basic RAG
+❌ Fine-tuning
